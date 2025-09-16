@@ -28,5 +28,10 @@ Create a new notebook.
 A plot showing the relationship between experience and salary.
  Printed test inputs and predicted salaries.
  Predicted salary for user-provided experience.
+# Optional plot image 
+
+
+<img width="597" height="455" alt="Salary vs yoe" src="https://github.com/user-attachments/assets/79412544-9b54-4906-bceb-1088ed346c57" />
+
 # Conclusion
 This project is a beginner-friendly example of using machine learning for regression tasks. It helps understand how models learn from data and make predictions.
