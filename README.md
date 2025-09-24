@@ -1,4 +1,4 @@
-# ML-Models
+# ML-Models -  Eg 1: SALARY REGESSION
  A traditional  Machine learning model to find the salary based on the experience.It is implemented in Google Colab, making it easy to run in cloud without any local setup.
 # Data set
 Source: CSV file hosted on GitHub
@@ -35,3 +35,10 @@ A plot showing the relationship between experience and salary.
 
 # Conclusion
 This project is a beginner-friendly example of using machine learning for regression tasks. It helps understand how models learn from data and make predictions.
+
+
+
+
+---------------------------------------------xxxxxxxxxxxxxxxxxxxxxxx--------------------------------------------------------
+# Eg 2 HOUSE PRICE PREDICTION MODEL
+
